@@ -1,0 +1,13 @@
+server:
+  port: 8088
+
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/qqbot?serverTimezone=UTC
+    username: qqbot
+    password: qqbot
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+#logging:
+#  level:
+#    root: debug
