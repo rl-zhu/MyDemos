@@ -1,7 +1,7 @@
 package com.rlZhu.demo.controller;
 
 
-import com.rlZhu.demo.module.User;
+import com.rlZhu.demo.entity.User;
 import com.rlZhu.demo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

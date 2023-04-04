@@ -1,7 +1,7 @@
 package com.rlZhu.demo.dao;
 
 
-import com.rlZhu.demo.module.User;
+import com.rlZhu.demo.entity.User;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;

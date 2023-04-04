@@ -2,7 +2,7 @@ package com.rlZhu.demo.dao.impl;
 
 
 import com.rlZhu.demo.dao.UserDao;
-import com.rlZhu.demo.module.User;
+import com.rlZhu.demo.entity.User;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 

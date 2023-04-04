@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kalam:wght@700&family=Kanit:wght@300&family=Signika&display=swap');
+
+
+.header {
+  font-family:'Kanit', Oxygen;
+  height: var(--nav-bar-height);
+  background-color: #fff;
+  // background-color: var(--header-color);
+  z-index: 999;
+}
+

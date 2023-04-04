@@ -5,7 +5,7 @@ package com.rlZhu.demo.service;
 
 
 import com.rlZhu.demo.dao.UserDao;
-import com.rlZhu.demo.module.User;
+import com.rlZhu.demo.entity.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
